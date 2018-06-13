@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Images"
+    "\\Images",
+    "\\Images\\VSProjectManager"
   ],
+  "SelectedNode": "\\Images\\VSProjectManager\\mainImage.PNG",
   "PreviewInSolutionExplorer": false
 }
